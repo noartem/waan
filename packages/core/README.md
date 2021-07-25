@@ -1,7 +1,7 @@
 # core
 
-This library was generated with [Nx](https://nx.dev).
+[@waan/core in npm](https://www.npmjs.com/package/@waan/core)
 
-## Running unit tests
-
-Run `nx test core` to execute the unit tests via [Jest](https://jestjs.io).
+```bash
+npm i @waan/core
+```
